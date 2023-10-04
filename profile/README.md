@@ -8,5 +8,4 @@ Who believes that with our passion for Software Development and AI, together, we
 
 Currently, it seems as if it is not much of a legacy yet... But with great ambition and persistence, we believe that our journey to achieve greatness has just begun
 
-> A journey of a thousand miles begins with a single step
-- _Confucius_
+> A journey of a thousand miles begins with a single step - _Confucius_
